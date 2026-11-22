@@ -3,7 +3,7 @@
 <!-- compat:start -->
 ### 📱 Supported clients
 
-Newest version of each client that every feature was checked against (checked 2026-11-21):
+Newest version of each client that every feature was checked against (checked 2026-11-22):
 
 | Client | Newest supported |
 |---|---|
@@ -20,5 +20,5 @@ Newest version of each client that every feature was checked against (checked 20
 | Graph Messenger | `13.2.2.2` |
 | EntinyGram | `13.2.2` |
 
-<sub>Updated automatically after every release and every Monday.</sub>
+<sub>Updated automatically after every release, every Monday and every Thursday.</sub>
 <!-- compat:end -->
