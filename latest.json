@@ -1,9 +1,9 @@
 {
-  "version": "1.6",
-  "apk": "TeleVip-1.6-release.apk",
-  "sha256": "aa1f7583cd0fd2deb87e026499bb2c1beea6ca7684016601ba303a01710d89fe",
+  "version": "1.6.1",
+  "apk": "TeleVip-1.6.1-release.apk",
+  "sha256": "26d446fd42952b77822eb2f7097202529d93c2ea75deddcc684d2c0cf6911271",
   "telegram": {
     "channel": "Revived_TeleVIP",
-    "post": 178
+    "post": 189
   }
 }
