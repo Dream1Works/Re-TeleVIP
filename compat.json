@@ -1,6 +1,6 @@
 {
-  "checked": "2026-11-22",
-  "module": "1.6.1",
+  "checked": "2026-11-23",
+  "module": "1.6.11",
   "clients": {
     "ir.ilmili.telegraph": {
       "ok": [
