@@ -54,7 +54,7 @@
 <tr>
   <td align="center">Phone number protection</td>
   <td align="center">Save voice messages</td>
-  <td align="center">Unlock saving in restricted chats ⭐</td>
+  <td align="center">Unlock saving in restricted chats</td>
 </tr>
 <tr>
   <td align="center">Block ads</td>
@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-<sub>⭐ = Premium. Everything else is free. All settings sit in <b>Re: TeleVIP Settings 🛸</b> at the top of the client's own <b>Settings</b>, in 22 languages.</sub>
+<sub>⭐ = Premium. Everything else is free. Unlock saving in restricted chats and local Telegram Premium are free from 1.7. All settings sit in <b>Re: TeleVIP Settings 🛸</b> at the top of the client's own <b>Settings</b>, in 22 languages.</sub>
 
 <br>
 
@@ -89,8 +89,8 @@ An **optional** subscription for extras. Everything free stays free.
 - 📰 Live ad & scam list, plus your own ad keywords
 - 🗂️ Unlimited storage for kept deleted messages (free: 50 MB)
 - 🙈 Hide my number and exposure warnings
-- 🔥 Save self-destructing media and from restricted chats
-- ⭐ Local Telegram Premium, 🎨 my colours and emoji
+- 🔥 Save self-destructing media
+- 🎨 My colours and emoji
 - 🔎 Message details, 📅 creation date on profiles
 - 💾 Settings export, 📏 album file sizes, 🌐 proxy button
 
