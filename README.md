@@ -97,10 +97,11 @@ An **optional** subscription for extras. Everything free stays free.
 </td><td>
 
 📆 **$1.99** / month<br>
+📅 **$5.49** / 3 months<br>
 🗓️ **$19.99** / year<br>
 🧾 **$19.99** one year, paid once
 
-<sub>Card, PayPal, Apple Pay, Google Pay<br>and WeChat Pay via Paddle, or USDT (TRC20).</sub>
+<sub>Card, PayPal, Apple Pay, Google Pay<br>and WeChat Pay via Paddle, or USDT (TRC20 or TON).</sub>
 
 </td></tr>
 </table>
