@@ -3,7 +3,7 @@
 <!-- compat:start -->
 ### 📱 Supported clients
 
-Newest version of each client that every feature was checked against (checked 2026-11-23):
+Newest version of each client that every feature was checked against (checked 2026-11-24):
 
 | Client | Newest supported |
 |---|---|
@@ -14,7 +14,7 @@ Newest version of each client that every feature was checked against (checked 20
 | NagramX | `12.9.2` |
 | Forkgram | `13.2.3.0` |
 | Forkgram Classic | `13.1.6.0` |
-| Mercurygram | `13.2.1.1` |
+| Mercurygram | `13.2.2.1` |
 | Momogram | `13.2.2` |
 | Plus Messenger | `13.2.2.1` |
 | Graph Messenger | `13.2.2.2` |
