@@ -3,7 +3,7 @@
 <!-- compat:start -->
 ### 📱 Supported clients
 
-Newest version of each client that every feature was checked against (checked 2026-11-24):
+Newest version of each client that every feature was checked against (checked 2026-11-25):
 
 | Client | Newest supported |
 |---|---|
